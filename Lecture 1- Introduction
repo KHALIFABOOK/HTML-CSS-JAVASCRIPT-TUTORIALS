@@ -1,0 +1,64 @@
+-------------------------------------------------------------------------------------------------------------------------------------------
+(1) What is HTML?
+HTML (Hypertext Markup Language) is the code file that is used to structure a web page and its content. For example, content could be 
+structured within a set of paragraphs, a list of bulleted points, or using images and data tables or lists,etc.
+-------------------------------------------------------------------------------------------------------------------------------------------
+(2) What is CSS?
+Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or in simple words 
+css is used to style , color , paint our html document.
+-------------------------------------------------------------------------------------------------------------------------------------------
+(3) What is Javascript ?
+In simple words javascript is used to add behaviour to our web pages means html documents. And javascript is also used in server side code.
+-------------------------------------------------------------------------------------------------------------------------------------------
+(4) What is Html Code Basic syntax or structure?
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
+The <!DOCTYPE html> declaration defines this document to be HTML5 or in simple words this tells browser that this is html document.
+The <html> </html> element is the root element of an HTML page and html code goes inside these elements or tags.   
+The <head></head> element contains meta information about the document
+The <body></body> element contains the visible page content.
+-------------------------------------------------------------------------------------------------------------------------------------------
+(5) What are tags in html?
+HTML tags are element names surrounded by angle brackets, The first tag in a pair is the start tag, the second tag is the end tag,
+The end tag is written like the start tag, but with a forward slash inserted before the tag name ,The start tag is also called the 
+opening tag, and the end tag the closing tag. Examples of some html tags are <html></html>,<head></head>,<body></body>.
+-------------------------------------------------------------------------------------------------------------------------------------------
+(6) What are heading tags in html and how they are written in html ?
+The heading tags are tags that are used to give a heading to a paragraph on the web page. There are six heading tags and these tags 
+are written inside <body></body> tags. The <h1> is the biggest heading and <h6> is the smallest heading.
+The heading tags are written as follows ---
+<h1>The heading of paragraph goes here.</h1>
+<h2>The heading of paragraph goes here.</h2>
+<h3>The heading of paragraph goes here.</h3>
+<h4>The heading of paragraph goes here.</h4>
+<h5>The heading of paragraph goes here.</h5>
+<h6>The heading of paragraph goes here.</h6>
+----------------------------------------------------------------------------------------------------------------------------------------
+(7) What are paragraph tag in html and how they are written in html ?
+The paragraph tags are tags which are used to write paragraph on web page. The paragraph tags are written as follows-
+<p>The paragraph content of web page goes here</p>
+----------------------------------------------------------------------------------------------------------------------------------------
+(8) What are title tags in html and how they are written in html ?
+The title tag is used to write the title of the web page. The title tags are written as follows-
+<title> My webpage title goes here </title>.
+----------------------------------------------------------------------------------------------------------------------------------------
+(9) What are br tags in html and how to write them ? 
+The <br> tag inserts a single line break. The <br> tag is an empty tag which means that it has no end tag.
+----------------------------------------------------------------------------------------------------------------------------------------
+(10) Write a html program , give title of the webpage as your own name , give <h1> heading as "My First WEb Page" and write a 
+paragraph below that that tells why you want to learn web devlopment and programming languages ?
+<!DOCTYPE html>
+<html>
+<head>
+<title> Vinay Morey </title>
+</head>
+<body>
+<h1>My First Web Page</h1>
+<p>I want to lean programming languages to build a world better place than before by building useful websites and apps. </p>
+</body>
+</html>
