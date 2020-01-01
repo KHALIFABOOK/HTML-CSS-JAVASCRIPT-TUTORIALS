@@ -20,7 +20,8 @@ In simple words javascript is used to add behaviour to our web pages means html 
 </html>
 The <!DOCTYPE html> declaration defines this document to be HTML5 or in simple words this tells browser that this is html document.
 The <html> </html> element is the root element of an HTML page and html code goes inside these elements or tags.   
-The <head></head> element contains meta information about the document
+The <head></head> element contains meta information about the document means ome additional information about webpage like what wil be 
+the title of the web page or what will be the language of the web page etc.
 The <body></body> element contains the visible page content.
 -------------------------------------------------------------------------------------------------------------------------------------------
 (5) What are tags in html?
@@ -48,7 +49,8 @@ The title tag is used to write the title of the web page. The title tags are wri
 <title> My webpage title goes here </title>. The title tags in html goes inside <head> tags.
 ----------------------------------------------------------------------------------------------------------------------------------------
 (9) What are br tags in html and how to write them ? 
-The <br> tag inserts a single line break. The <br> tag is an empty tag which means that it has no end tag.
+The <br> tag inserts a single line break. The <br> tag is an empty tag which means that it has no end tag. These tags are used to 
+add more that one spacing between the lines in our html documents or web pages.
 ----------------------------------------------------------------------------------------------------------------------------------------
 (10) What are &nbsp  in html and what is the use of  &nbsp ? 
 The &nbsp is used to add spacing between the text in html documents. So the text in html documents can have spacing of one space 
@@ -107,5 +109,22 @@ Global warming and climate change are often used interchangeably.[3] But more ac
 increase in global surface temperatures and its projected continuation,[4] while climate change includes both global warming and its 
 effects, such as changes in precipitation.[5] While there have been prehistoric periods of global warming,[6] many observed changes
 since the mid-20th century have been unprecedented over decades to millennia </p>
+</body>
+</html>
+----------------------------------------------------------------------------------------------------------------------------------------
+(4) Write a html program , give title of the webpage as HTML HEADINGS , use heading tags from <h1> to <h6> and see how headings get 
+smaller in size from <h1> to <h6>.
+<!DOCTYPE html>
+<html>
+<head>
+<title> HTML HEADINGS </title>
+</head>
+<body>
+<h1>The heading of paragraph goes here.</h1>
+<h2>The heading of paragraph goes here.</h2>
+<h3>The heading of paragraph goes here.</h3>
+<h4>The heading of paragraph goes here.</h4>
+<h5>The heading of paragraph goes here.</h5>
+<h6>The heading of paragraph goes here.</h6>
 </body>
 </html>
