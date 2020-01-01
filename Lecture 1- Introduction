@@ -91,3 +91,21 @@ and characterizing weather, dust, and other potential environmental conditions t
 on Mars. </p>
 </body>
 </html>
+----------------------------------------------------------------------------------------------------------------------------------------
+(3) Write a html program , give title of the webpage as ENVIRONMENT , give <h1> heading as "SAVE ENVIRONMENT" and write a 
+paragraph below that that tells about Global Warming ?
+<!DOCTYPE html>
+<html>
+<head>
+<title> ENVIRONMENT </title>
+</head>
+<body>
+<h1> SAVE ENVIRONMENT </h1>
+<p>Global warming is the long-term rise in the average temperature of the Earth's climate system. It is a major aspect of climate 
+change, and has been demonstrated by direct temperature measurements and by measurements of various effects of the warming.
+Global warming and climate change are often used interchangeably.[3] But more accurately, global warming is the mainly human-caused
+increase in global surface temperatures and its projected continuation,[4] while climate change includes both global warming and its 
+effects, such as changes in precipitation.[5] While there have been prehistoric periods of global warming,[6] many observed changes
+since the mid-20th century have been unprecedented over decades to millennia </p>
+</body>
+</html>
