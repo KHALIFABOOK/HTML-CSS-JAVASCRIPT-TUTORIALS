@@ -164,3 +164,17 @@ modern Summer Olympic Games in Athens, Greece in 1896. The IOC is the governing 
 defining its structure and authority. </p>
 </body>
 </html>
+----------------------------------------------------------------------------------------------------------------------------------------
+(6) Write a html program , give title of the webpage as MYNAME , use heading tags <h1> and wite your full name in heading and add 
+more than one space between your first name and last name.
+<!DOCTYPE html>
+<html>
+<head>
+<title> MYNAME </title>
+</head>
+<body>
+<h1> VINAY &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp MOREY </h1>
+
+</body>
+</html>
+
