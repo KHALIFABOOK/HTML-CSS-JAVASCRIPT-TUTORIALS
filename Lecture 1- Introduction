@@ -45,12 +45,20 @@ The paragraph tags are tags which are used to write paragraph on web page. The p
 ----------------------------------------------------------------------------------------------------------------------------------------
 (8) What are title tags in html and how they are written in html ?
 The title tag is used to write the title of the web page. The title tags are written as follows-
-<title> My webpage title goes here </title>.
+<title> My webpage title goes here </title>. The title tags in html goes inside <head> tags.
 ----------------------------------------------------------------------------------------------------------------------------------------
 (9) What are br tags in html and how to write them ? 
 The <br> tag inserts a single line break. The <br> tag is an empty tag which means that it has no end tag.
 ----------------------------------------------------------------------------------------------------------------------------------------
-(10) Write a html program , give title of the webpage as your own name , give <h1> heading as "My First WEb Page" and write a 
+(10) What are &nbsp  in html and what is the use of  &nbsp ? 
+The &nbsp is used to add spacing between the text in html documents. So the text in html documents can have spacing of one space 
+bydefault but if we want to add more than one space in our html document we have to use &nbsp between that text.
+----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+**************************************************Programms******************************************************************************
+----------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+(1) Write a html program , give title of the webpage as your own name , give <h1> heading as "My First WEb Page" and write a 
 paragraph below that that tells why you want to learn web devlopment and programming languages ?
 <!DOCTYPE html>
 <html>
@@ -60,5 +68,26 @@ paragraph below that that tells why you want to learn web devlopment and program
 <body>
 <h1>My First Web Page</h1>
 <p>I want to lean programming languages to build a world better place than before by building useful websites and apps. </p>
+</body>
+</html>
+----------------------------------------------------------------------------------------------------------------------------------------
+(2) Write a html program , give title of the webpage as NASA , give <h1> heading as "NASA MARS MISSION" and write a 
+paragraph below that that tells about nasa mars mission ?
+<!DOCTYPE html>
+<html>
+<head>
+<title> NASA </title>
+</head>
+<body>
+<h1>NASA MARS MISSION</h1>
+<p>The Mars 2020 rover mission is part of NASA's Mars Exploration Program, a long-term effort of robotic exploration of the Red Planet.
+The Mars 2020 mission addresses high-priority science goals for Mars exploration, including key questions about the potential for life 
+on Mars. The mission takes the next step by not only seeking signs of habitable conditions on Mars in the ancient past, but also 
+searching for signs of past microbial life itself. The Mars 2020 rover introduces a drill that can collect core samples of the most 
+promising rocks and soils and set them aside in a "cache" on the surface of Mars. The mission also provides opportunities to gather
+knowledge and demonstrate technologies that address the challenges of future human expeditions to Mars. These include testing a method 
+for producing oxygen from the Martian atmosphere, identifying other resources (such as subsurface water), improving landing techniques,
+and characterizing weather, dust, and other potential environmental conditions that could affect future astronauts living and working 
+on Mars. </p>
 </body>
 </html>
