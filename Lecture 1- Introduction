@@ -128,3 +128,39 @@ smaller in size from <h1> to <h6>.
 <h6>The heading of paragraph goes here.</h6>
 </body>
 </html>
+----------------------------------------------------------------------------------------------------------------------------------------
+(5) Write a html program , give title of the webpage as OLYMPICS , give <h1> heading as "SUMMER OLYMPICS" and <h2> headings as 
+"WINTER OLYMPICS"and write a paragraph for both the headings and add linebreak  between both the paragraph.  
+paragraph below that that tells about Global Warming ?
+<!DOCTYPE html>
+<html>
+<head>
+<title> OLYMPICS </title>
+</head>
+<body>
+<h1> SUMMER OLYMPICS </h1>
+<p>The Summer Olympic Games (French: Jeux Olympiques d'été)[1] or the Games of the Olympiad, first held in 1896, is a major 
+international multi-sport event held once every four years. The most recent Olympics were held in Rio de Janeiro, Brazil
+.The International Olympic Committee (IOC) organises the Games and oversees the host city's preparations. In each Olympic event, 
+gold medals are awarded for first place, silver medals are awarded for second place, and bronze medals are awarded for third place; 
+this tradition began in 1904. The Winter Olympic Games were created out of the success of the Summer Olympics. </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2> WINTER OLYMPICS </h2>
+<p>The Winter Olympic Games (French: Jeux olympiques d'hiver)[nb 1] is a major international multi-sport event held once every 
+four years for sports practiced on snow and ice. The first Winter Olympic Games, the 1924 Winter Olympics, were held in Chamonix,
+France. The modern Olympic Games were inspired by the ancient Olympic Games, which were held in Olympia, Greece, from the 8th century
+BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894, leading to the first
+modern Summer Olympic Games in Athens, Greece in 1896. The IOC is the governing body of the Olympic Movement, with the Olympic Charter 
+defining its structure and authority. </p>
+</body>
+</html>
