@@ -233,3 +233,47 @@ helped kickstart his career. Walker then gained international fame after starrin
 
 </body>
 </html>
+----------------------------------------------------------------------------------------------------------------------------------------
+(8) Write a html program , give title of the webpage as "ABOUT ME" , use any 4 heading tags and write a paragraph below each
+heading and use br tags between each paragraph. 
+<!DOCTYPE html>
+<html>
+<head>
+<title> ABOUT ME </title>
+</head>
+<body>
+<h6>MY HOBBIES</h6>
+<P> Paul William Walker IV[3] (September 12, 1973[4] – November 30, 2013) was an American actor and philanthropist best known for 
+his role as Brian O'Conner in The Fast and the Furious franchise. Walker began his career as a child actor during the 1970s and 1980s,
+but first gained recognition in the early 1990s after appearing in the television soap opera The Young and the Restless. He soon 
+transitioned into film, and received praise in 1999 for his performances in the teen films She's All That and Varsity Blues, which 
+helped kickstart his career. Walker then gained international fame after starring in The Fast and the Furious.</P>
+<br>
+<br>
+<br>
+<h4> MY FRIENDS</h4>
+<P> Paul William Walker IV[3] (September 12, 1973[4] – November 30, 2013) was an American actor and philanthropist best known for 
+his role as Brian O'Conner in The Fast and the Furious franchise. Walker began his career as a child actor during the 1970s and 1980s,
+but first gained recognition in the early 1990s after appearing in the television soap opera The Young and the Restless. He soon 
+transitioned into film, and received praise in 1999 for his performances in the teen films She's All That and Varsity Blues, which 
+helped kickstart his career. Walker then gained international fame after starring in The Fast and the Furious.</P>
+<br>
+<br>
+<br>
+<h1> MY CARS </h1>
+<P> Paul William Walker IV[3] (September 12, 1973[4] – November 30, 2013) was an American actor and philanthropist best known for 
+his role as Brian O'Conner in The Fast and the Furious franchise. Walker began his career as a child actor during the 1970s and 1980s,
+but first gained recognition in the early 1990s after appearing in the television soap opera The Young and the Restless. He soon 
+transitioned into film, and received praise in 1999 for his performances in the teen films She's All That and Varsity Blues, which 
+helped kickstart his career. Walker then gained international fame after starring in The Fast and the Furious.</P>
+<br>
+<br>
+<br>
+<h2> MY EDUCATION </h2>
+<P> Paul William Walker IV[3] (September 12, 1973[4] – November 30, 2013) was an American actor and philanthropist best known for 
+his role as Brian O'Conner in The Fast and the Furious franchise. Walker began his career as a child actor during the 1970s and 1980s,
+but first gained recognition in the early 1990s after appearing in the television soap opera The Young and the Restless. He soon 
+transitioned into film, and received praise in 1999 for his performances in the teen films She's All That and Varsity Blues, which 
+helped kickstart his career. Walker then gained international fame after starring in The Fast and the Furious.</P>
+</body>
+</html>
