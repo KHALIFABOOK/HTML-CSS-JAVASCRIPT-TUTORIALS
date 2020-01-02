@@ -50,7 +50,8 @@ The title tag is used to write the title of the web page. The title tags are wri
 ----------------------------------------------------------------------------------------------------------------------------------------
 (9) What are br tags in html and how to write them ? 
 The <br> tag inserts a single line break. The <br> tag is an empty tag which means that it has no end tag. These tags are used to 
-add more that one spacing between the lines in our html documents or web pages.
+add more that one spacing between the lines in our html documents or web pages. HTML elements with no content are called empty elements. 
+Empty elements do not have an end tag, such as the <br> element tag.
 ----------------------------------------------------------------------------------------------------------------------------------------
 (10) What are &nbsp  in html and what is the use of  &nbsp ? 
 The &nbsp is used to add spacing between the text in html documents. So the text in html documents can have spacing of one space 
@@ -174,6 +175,24 @@ more than one space between your first name and last name.
 </head>
 <body>
 <h1> VINAY &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp MOREY </h1>
+
+</body>
+</html>
+----------------------------------------------------------------------------------------------------------------------------------------
+(6) Write a html program , give title of the webpage as PAUL WALKER , use heading tags <h1> and write " WE MISS YOU PAUL WALKER " 
+in heading and write paragraph below that heading that tells information about paul walker.
+<!DOCTYPE html>
+<html>
+<head>
+<title> PAUL WALKER </title>
+</head>
+<body>
+<h1> WE MISS YOU PAUL WALKER</h1>
+<P> Paul William Walker IV[3] (September 12, 1973[4] – November 30, 2013) was an American actor and philanthropist best known for 
+his role as Brian O'Conner in The Fast and the Furious franchise. Walker began his career as a child actor during the 1970s and 1980s,
+but first gained recognition in the early 1990s after appearing in the television soap opera The Young and the Restless. He soon 
+transitioned into film, and received praise in 1999 for his performances in the teen films She's All That and Varsity Blues, which 
+helped kickstart his career. Walker then gained international fame after starring in The Fast and the Furious.</P>
 
 </body>
 </html>
